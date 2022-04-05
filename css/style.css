@@ -5,4 +5,17 @@
 body{
     background-size: cover;
 }
-he
+container{
+    margin: 0px;  
+    width: 100%;
+    padding-right: var(--bs-gutter-x,.75rem);
+
+  
+  }
+  .mycorousel{
+      max-height: 300px;  
+     /* vertical-align: middle; */ 
+  }
+  .mycorousel img{
+     /* max-height: 400px;*/
+  }
